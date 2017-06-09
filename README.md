@@ -3,4 +3,4 @@
 
 预览
 
-"![image](https://github.com/dgyqll/MyApplication/blob/master/app/src/main/res/drawable/jdfw.gif)"
+![image](https://github.com/dgyqll/MyApplication/blob/master/app/src/main/res/drawable/jdfw.gif)
